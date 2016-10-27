@@ -12,5 +12,6 @@ Common Data Parallelism Paradigm:
   
 Performance consideration:
   - reduce global memory traffic (locality of memory access)  
+  - make use of shared memory
   - warps and thread execution   
   - atomic operations   
